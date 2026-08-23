@@ -116,6 +116,7 @@ Reflex: Look at the constraints first.
 
 The constraints frequently reveal the target complexity before you fully understand the problem.
 
+
 ⸻
 
 04 — The 15-Pattern Library
