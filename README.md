@@ -44,6 +44,7 @@ The goal is compression rather than memorization.
 
 Core principle: Patterns > Problem Count
 
+
 ⸻
 
 02 — Foundation Map
