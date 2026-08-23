@@ -119,6 +119,7 @@ The constraints frequently reveal the target complexity before you fully underst
 
 ⸻
 
+
 04 — The 15-Pattern Library
 
 Master these patterns systematically.
