@@ -5,8 +5,7 @@ s
 q
 z
 o
-n
-a
+
 n
 a
 q
