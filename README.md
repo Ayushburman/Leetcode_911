@@ -1,6 +1,6 @@
 # LeetCode Mastery Protocol
 
-A structured, zero-to-competent system for learning Data Structures, Algorithms, and problem-solving patterns — built for depth, not random grinding.
+> A structured, zero-to-competent system for learning Data Structures, Algorithms, and problem-solving patterns — built for depth, not random grinding.
 
 15 Core Patterns · 6 Phases · ~16 Weeks · Patterns > Problem Count
 
