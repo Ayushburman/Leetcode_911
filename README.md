@@ -141,6 +141,7 @@ Examples:
 
 ⸻
 
+
 2. Sliding Window
 
 Signal:
