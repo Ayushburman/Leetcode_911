@@ -5,9 +5,6 @@ s
 q
 z
 o
-
-i
-o
 n
 a
 n
