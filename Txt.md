@@ -12,6 +12,5 @@ a
 a
 s
 k
-s
 k
 z
