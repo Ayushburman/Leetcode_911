@@ -5,8 +5,7 @@ s
 q
 z
 o
-im
-f
+
 i
 o
 n
