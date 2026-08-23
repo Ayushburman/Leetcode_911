@@ -10,7 +10,6 @@ i
 n
 a
 a
-s
 k
 k
 z
