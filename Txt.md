@@ -5,9 +5,6 @@ s
 q
 z
 o
-a
-p
-a
 im
 f
 i
