@@ -3,7 +3,7 @@ LeetCode Top Interview 150 — Pattern-Based DSA Roadmap
 A pattern-first tracker for FAANG/MAANG internships, SDE roles, and technical interviews.
 Focus on recognizing the underlying pattern rather than memorizing individual solutions.
 
-🎯 Strategy
+** Strategy **
 
 Recommended progression:
 
