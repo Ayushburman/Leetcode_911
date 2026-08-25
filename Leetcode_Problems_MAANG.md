@@ -1,7 +1,5 @@
 If your goal is USA summer internships + MAANG/FAANG-style SDE interviews + strong normal SDE placements, don’t try to solve thousands of LeetCode problems.
-
-
-
+_____
 A better target is ~250–300 carefully selected problems, with the first ~150 being extremely solid.
 
 🎯 Tier 1 — Must-do foundation (~75)
