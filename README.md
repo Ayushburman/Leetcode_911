@@ -49,6 +49,8 @@ Core principle: Patterns > Problem Count
 ⸻
 
 
+
+
 02 — Foundation Map
 
 Before pattern-based LeetCode practice, build these foundations.
