@@ -8,6 +8,7 @@
 
 01 — The Mental Model
 
+
 Why Most People Fail
 
 The default approach:
