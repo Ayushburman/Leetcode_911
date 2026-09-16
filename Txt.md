@@ -13,6 +13,7 @@ Time	Activity
 15 min	Review mistakes
 10 min	Write complexity and notes
 
+
 If you only have 1 hour daily:
 
 * 15 min: Concept
