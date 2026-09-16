@@ -34,6 +34,8 @@ Step 1: Understand the problem
 
 Read the problem carefully.
 
+
+
 Identify:
 
 * Input
