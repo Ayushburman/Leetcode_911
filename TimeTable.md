@@ -9,10 +9,10 @@
 ⏰ Daily 1-Hour Timetable
 
 Time	Activity	Duration
-0:00–0:10	Learn today’s concept	10 min
-0:10–0:20	Study an example + approach	10 min
-0:20–0:50	Solve 1 LeetCode problem	30 min
-0:50–1:00	Review + note mistakes	10 min
+> 0:00–0:10	Learn today’s concept	10 min
+> 0:10–0:20	Study an example + approach	10 min
+> 0:20–0:50	Solve 1 LeetCode problem	30 min
+> 0:50–1:00	Review + note mistakes	10 min
 
 Total: 60 minutes
 
