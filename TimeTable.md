@@ -4,7 +4,7 @@
 
 ⏱️ 1 Hour Daily | Beginner → Advanced | C Programming
 
-Ayush, follow this routine consistently. Your goal is to understand one concept and solve problems independently every day.
+.
 
 ⏰ Daily 1-Hour Timetable
 
