@@ -22,6 +22,8 @@ If you only have 1 hour daily:
 
 Consistency matters more than forcing long study sessions.
 
+
+
 ⸻
 
 🧠 The Correct Way to Solve Every Problem
