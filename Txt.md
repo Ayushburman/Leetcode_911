@@ -5,6 +5,7 @@ Since you’re balancing DSA with GATE preparation, use a sustainable routine.
 
 Recommended: 2 Hours Daily
 
+
 Time	Activity
 20 min	Learn concept
 30 min	Study pattern + example
